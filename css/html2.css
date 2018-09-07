@@ -1974,10 +1974,11 @@ footer .bottom .ad{
 	width: 289px;
 	height: 285px;
 	text-align: center;
-	/* background: black; */
+	background: white;
 	float: left;
 	margin-left: 14px;
 	transition: all .5s;
+	
 }
 .video .bottom .down li:hover{
 	transform: translateY(-2px);
